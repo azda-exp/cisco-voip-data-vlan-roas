@@ -45,3 +45,4 @@ The configuration has been verified through the following steps:
 ---
 **Author:** [""EHSAN""]  
 **Topic:** Network Engineering | Cisco IOS | CCNA Lab
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=azda-exp&show_icons=true&theme=radical&hide_border=true&count_private=true)
